@@ -1,2 +1,2 @@
-# Estat-stica-Essencial
+# Estatistica-Essencial
 Estudos sobre estatística
